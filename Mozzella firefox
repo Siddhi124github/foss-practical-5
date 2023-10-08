@@ -1,0 +1,17 @@
+Mozilla Firefox, or simply Firefox, is a free and open-source[11] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. It uses the Gecko rendering engine to display web pages, which implements current and anticipated web standards.[12] In November 2017, Firefox began incorporating new technology under the code name "Quantum" to promote parallelism and a more intuitive user interface.[13] Firefox is available for Windows 10 or later versions, macOS, and Linux. Its unofficial ports are available for various Unix and Unix-like operating systems, including FreeBSD,[14] OpenBSD,[15] NetBSD,[16] illumos,[17] and Solaris Unix.[18] It is also available for Android and iOS. However, as with all other iOS web browsers,
+Written in
+C++, JavaScript, HTML, C, Rust, and others[5][6]
+
+
+license:-Firefox source code is free software, with most of it being released under the Mozilla Public License (MPL) version 2.0.[10] This license permits anyone to view, modify, or redistribute the source code.
+
+
+
+3. Mode of Funding:
+   - Mozilla Corporation, a subsidiary of the Mozilla Foundation, generates revenue primarily through search partnerships. Companies like Google have paid Mozilla to make their search engine the default in Firefox. Additionally, Mozilla has received grants and donations from various sources to support its open-source initiatives.
+
+4. Commercial and Non-Commercial Use:
+   - Commercial Use: Mozilla's open-source software, like Firefox, can be used by commercial entities without cost. Many organizations, including businesses, use Firefox as their web browser of choice.
+   - Non-Commercial Use: Mozilla's products are freely available for non-commercial use by individuals and organizations. This allows nonprofit organizations, educational institutions, and individual users to access and utilize Mozilla's software without licensing fees.
+
+Mozilla's commitment to open-source principles, transparency, and user privacy has made it a prominent player in the open-source software community and a key advocate for a free and open internet.
